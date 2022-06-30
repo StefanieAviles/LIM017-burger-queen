@@ -25,7 +25,6 @@ div#root {
   justify-content: center;
   width: 100%;
   height: 100%;
-  /* margin-left: 80px; */
 }
 
 .App-logo {
@@ -117,7 +116,7 @@ button:hover {
   .loginInputs, .workerType {
     height: 60px;
     width: 450px;
-    font-size: 180%; /* aqui cambie ********tamano letra */
+    font-size: 180%;
   }
   p {
     margin-top: 25px;
@@ -126,7 +125,6 @@ button:hover {
   button {
     height: 60px;
     width: 200px;
-    /* font-size: 30px; */
     font-size: 180%;
   }
 }
